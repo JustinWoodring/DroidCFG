@@ -1,5 +1,3 @@
 rootProject.name = 'DroidCFG'
 include 'FlowDroidCFG'
-include 'WalaCFG'
-include 'AndroidStudioHarness'
 
